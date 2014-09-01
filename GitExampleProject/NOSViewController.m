@@ -22,6 +22,8 @@
     //Text for the initial commit
     
     //Text for feature branch
+    
+    //Adding a second commit message
 }
 
 - (void)didReceiveMemoryWarning
