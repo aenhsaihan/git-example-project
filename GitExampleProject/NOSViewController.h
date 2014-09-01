@@ -12,4 +12,6 @@
 
 //Comment to be merged from second branch
 
+//Adding another comment to be merged to master from second branch
+
 @end
