@@ -30,6 +30,8 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    
+    //Adding text for master
 }
 
 @end
